@@ -2,7 +2,7 @@
 
 ### Generates a summary of a talk using OpenAI models
 
-- OpenAI Whisper is used to transcribe audio into text (Speech to text)
+- OpenAI Whisper is used to transcribe audio into text (Speech to text).
 - OpenAI Davincu (GPT 3.5) is used to summarized the transcribed text. 
 
 
