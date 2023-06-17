@@ -1,5 +1,5 @@
 # AI Talk Summary
----
+
 ### Generates a summary of a talk using OpenAI models
 
 - OpenAI Whisper is used to transcribe audio into text (Speech to text)
